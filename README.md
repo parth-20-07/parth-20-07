@@ -1,7 +1,6 @@
 ### Hi there, I'm Parth Patel 👋
 
-<img align="left" alt="Me" width="500px" src="Resources/My Photo.JPG" />
-
+<img alt="Me" width="500px" src="Resources/My Photo.JPG" />
 <br />
 
 ## Yes, the above handsome guy is me !!
