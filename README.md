@@ -21,7 +21,7 @@
 
 <br />
 
-### Languages:
+### Programming Skills:
 
 <img width="30px" align="left" alt="C Programming" src="Resources/Programming Language Logo/C Logo.jpeg">
 <img width="25px" align="left" alt="C++ Programming" src="Resources/Programming Language Logo/CPP Logo.jpeg">
@@ -36,7 +36,7 @@
 <br />
 <br />
 
-### 3D Tools:
+### 3D Skills:
 
 <img width="30px" align="left" alt="Fusion 360" src="Resources/Software Logo/3D Design Softwares/Fusion 360 Logo.png">
 <img width="60px" align="left" alt="Solidworks" src="Resources/Software Logo/3D Design Softwares/Solidworks Logo.png">
@@ -46,7 +46,7 @@
 <br />
 <br />
 
-### Circuit Design Tools:
+### Circuit Design Skills:
 
 <img width="30px" align="left" alt="Eagle CAD" src="Resources/Software Logo/Circuit Design Softwares/Eagle Logo.png">
 <img width="70px" align="left" alt="KiCAD" src="Resources/Software Logo/Circuit Design Softwares/KiCAD Logo.png">
@@ -55,7 +55,7 @@
 <br />
 <br />
 
-### Robotics Tools:
+### Robotics Skills:
 
 <img width="30px" align="left" alt="MATLAB" src="Resources/Software Logo/Robotics Softwares/Matlab Logo.png">
 <img width="45px" align="left" alt="RoboAnalyzer" src="Resources/Software Logo/Robotics Softwares/RoboAnalyzer Logo.png">
@@ -65,7 +65,7 @@
 <br />
 <br />
 
-### Adobe Multimedia Tools:
+### Adobe Multimedia Skills:
 
 <img width="30px" align="left" alt="Illustrator" src="Resources/Software Logo/Adobe Softwares/Illustrator Logo.png">
 <img width="30px" align="left" alt="Lightroom" src="Resources/Software Logo/Adobe Softwares/Lightroom Logo.png">
