@@ -1,6 +1,10 @@
 ### Hi there, I'm Parth Patel 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Parth_patel_20?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/tweet?screen_name=Parth_patel_20&ref_src=twsrc%5Etfw)
+<img align="left" alt="Me" width="500px" src="Resources/My Photo.JPG" />
+
+<br />
+
+## Yes, the above handsome guy is me !!
 
 ## I'm a Engineer, Student, Developer, Dreamer and Executionist !!
 
