@@ -38,7 +38,7 @@
 
 ### 3D Skills:
 
-<img width="30px" align="left" alt="Fusion 360" src="Resources/Software Logo/3D Design Softwares/Fusion 360 Logo.png">
+<img width="20px" align="left" alt="Fusion 360" src="Resources/Software Logo/3D Design Softwares/Fusion 360 Logo.png">
 <img width="60px" align="left" alt="Solidworks" src="Resources/Software Logo/3D Design Softwares/Solidworks Logo.png">
 <img width="30px" align="left" alt="Cura" src="Resources/Software Logo/3D Printing Softwares/Cura Logo.png">
 <img width="30px" align="left" alt="Ideamaker" src="Resources/Software Logo/3D Printing Softwares/Ideamaker Logo.png">
