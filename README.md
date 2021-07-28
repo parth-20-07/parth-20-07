@@ -19,6 +19,7 @@
 [<img align="left" alt="Parth Patel | LinkedIn" width="22px" src="Resources/Social Media Logo/LinkedIn Logo.png" />][linkedin]
 [<img align="left" alt="Parth Patel | Instagram" width="22px" src="Resources/Social Media Logo/Instagram Logo.png" />][instagram]
 
+<!---
 <br />
 
 ### Programming Skills:
@@ -72,7 +73,7 @@
 <img width="30px" align="left" alt="Media Encoder" src="Resources/Software Logo/Adobe Softwares/Media Encoder Logo.png">
 <img width="30px" align="left" alt="Photoshop" src="Resources/Software Logo/Adobe Softwares/Photoshop Logo.png">
 <img width="30px" align="left" alt="Premiere Pro" src="Resources/Software Logo/Adobe Softwares/Premiere Pro Logo.png">
-
+--->
 [website]: https://ParthPatel
 [twitter]: https://twitter.com/Parth_patel_20
 [instagram]: https://www.instagram.com/parth.patel_20/
