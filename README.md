@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: 
-- - Learn Robot Operating Systems (ROS).
-- - Learn Bare Metal Programming
+-- Learn Robot Operating Systems (ROS).
+-- Learn Bare Metal Programming
 - ⚡ Fun fact: I love to paint 3D Models, play FPS Games and sleep.
 
 ### Connect with me:
